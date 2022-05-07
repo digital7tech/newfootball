@@ -7,15 +7,6 @@
 
 		
 	
-		
-{
-
-
-			"user": "Brest vs Strasbourg HD1",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/S6oHGPV2wTjVv4a3Rvs3MlCnVy2MLKFpbZCrYiFWh66aNa3gL4uiOz-4ugTzyGKNQ75OZnsvlzTc7z8ohyHuLQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
 {
 
 
@@ -94,7 +85,7 @@
 
 
 			"user": "Benfica vs Porto",
-			"pageUrl": "http://194.67.196.19:80/hls/116.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/S6oHGPV2wTjVv4a3Rvs3MlCnVy2MLKFpbZCrYiFWh66aNa3gL4uiOz-4ugTzyGKNQ75OZnsvlzTc7z8ohyHuLQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
