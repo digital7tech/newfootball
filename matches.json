@@ -150,7 +150,7 @@
 
 
 			"user": "Reims vs Lens",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "GET https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/9-sTk2mF4gYVDpBkdU5ujilrVzexRQAIj6l4L8R8oVLq7wvSrgmDNFkPq3z5P0lII3Th3czD1U0O3j88lJo5ZA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
