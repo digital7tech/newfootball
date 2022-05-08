@@ -157,11 +157,21 @@
 {
 
 
-			"user": "Frankfurt vs Borussia M'gladbach",
+			"user": "Frankfurt vs Borussia M'gladbach SD",
+			"pageUrl": "http://194.67.196.19:80/hls/111.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+
+{
+
+
+			"user": "Frankfurt vs Borussia M'gladbach HD",
 			"pageUrl": "http://103.167.190.250/hls/sonyten2.m3u8",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
+
 			{
 
 
