@@ -3,22 +3,6 @@
 
 	"hits": [
 
-{
-
-
-			"user": "Spezia vs Atalanta HD1",
-			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/2W7YMigfoINJn85v8JYYA4-SIE0V-uc4siYyFmCewhVmlby7p2fIJ0tnhwmSAIjqm7OjvdgIOGgFSk66kLRilQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
-
-{
-			"user": "Spezia vs Atalanta HD2",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 		
 {
 
@@ -149,7 +133,7 @@
 
 
 			"user": "Venezia vs Bologna HD1",
-			"pageUrl": "https://prodJ_c1yQdbnamic_highlatency.m3u8?type=live",
+			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/2W7YMigfoINJn85v8JYYA4-SIE0V-uc4siYyFmCewhVmlby7p2fIJ0tnhwmSAIjqm7OjvdgIOGgFSk66kLRilQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -157,7 +141,7 @@
 
 {
 			"user": "Venezia vs Bologna HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/2W7YMigfoINJn85v8JYYA4-SIE0V-uc4siYyFmCewhVmlby7p2fIJ0tnhwmSAIjqm7OjvdgIOGgFSk66kLRilQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
