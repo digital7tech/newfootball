@@ -24,7 +24,7 @@
 
 
 			"user": "Metz vs Olympique Lyonnais",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/TUsq9SmQV0ajZ5R-9nGTuA72ogbR87C_jkN1WdObPaCw3dJTWJJiNbLi2Z03r4Djrtk98XvGDu6DZdyqz9d5eQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
