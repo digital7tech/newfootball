@@ -40,7 +40,7 @@
 
 
 			"user": "Getafe vs Rayo Vallecano HD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"pageUrl": "GET https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/aJNyVuvFhTei0fcoU55VGzSZoKOuEH6ZO-dTlXy3jNRG9fFMXo5JkQhIYUFxyuDmluL8fAsEZ4Mdna9EoLdE2Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
 		},
