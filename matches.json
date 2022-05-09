@@ -2,26 +2,26 @@
 {
 
 	"hits": [
-
 	
 {
 
 
 			"user": "Fiorentina vs Roma HD1",
-			"pageUrl": "http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8",
+			"pageUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/y5AvdOOWqE8asvS4JSM_tPXGQJK11iDwxel0HENdZqPUW7OiIHtcW6CN4NwcDHPzGfkkSdsfIKt_d916Iqmp6Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
-			
+
 	
 {
 
 
 			"user": "Fiorentina vs Roma HD2",
-			"pageUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/y5AvdOOWqE8asvS4JSM_tPXGQJK11iDwxel0HENdZqPUW7OiIHtcW6CN4NwcDHPzGfkkSdsfIKt_d916Iqmp6Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
+			
 
 	
 {
