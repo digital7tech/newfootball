@@ -46,7 +46,7 @@
 
 
 			"user": "Aston Villa vs Liverpool SD1(English)",
-			"pageUrl": "GET https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/e5WGcG9q8Htd8jXtr4RDUY7LrcFs91icL782EBFXyL8op7YoKXn1fCrkr7YSqA0M0BB_pM6bSHA0n-rQm0kACA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/e5WGcG9q8Htd8jXtr4RDUY7LrcFs91icL782EBFXyL8op7YoKXn1fCrkr7YSqA0M0BB_pM6bSHA0n-rQm0kACA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -70,7 +70,7 @@
 
 
 			"user": "Aston Villa vs Liverpool HD3",
-			"pageUrl": "GET https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wplRXV8Lo_VsA5xY0rzN4107X3yN685vUh00Ok4Aj1Ax4bhdLy0MMyXgLI3vhNKkuxbI8LTaqXZVEAGva-hzHw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/wplRXV8Lo_VsA5xY0rzN4107X3yN685vUh00Ok4Aj1Ax4bhdLy0MMyXgLI3vhNKkuxbI8LTaqXZVEAGva-hzHw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
