@@ -2,22 +2,7 @@
 {
 
 	"hits": [
-{
 
-
-			"user": "Valencia vs Real Betis SD",
-			"pageUrl": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/y5AvdOOWqE8asvS4JSM_tPXGQJK11iDwxel0HENdZqPUW7OiIHtcW6CN4NwcDHPzGfkkSdsfIKt_d916Iqmp6Q/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Valencia vs Real Betis HD",
-			"pageUrl": "http://d1qml2yr7t2k20.cloudfront.net/stream/NDIyOA==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
 		{
 
 
@@ -86,7 +71,7 @@
 
 
 			"user": "Barcelona vs Celta de Vigo HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "http://d3joajxwrc3ti2.cloudfront.net/stream/NDI1OA==/1080p.m3u8",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
 		},
