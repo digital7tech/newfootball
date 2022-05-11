@@ -2,46 +2,8 @@
 {
 
 	"hits": [
-{
 
-
-			"user": "Deportivo Alavés vs Espanyol SD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/z_0cym89skE4oHcWilohYX9owQmHND-7_gjNugsa68Nlujqtjb-thyLbnnUIimMgoR4I9fvNVqnGXCnq8YQ1Bw/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?type=live",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Deportivo Alavés vs Espanyol HD",
-			"pageUrl": "http://d2sa2dokcdsati.cloudfront.net/stream/NDI3OA==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Osasuna vs Getafe SD",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDI3Nw==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Osasuna vs Getafe HD",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDI3Nw==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Nice vs Saint-Étienne SD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/t87_7Mm2LIQ3aN6xE5t4vExktALgajUlRPbdvtCEbFVUPxGIMJXjNJdcZDbThTtQ7ffBwrLH_A9FIrC2M6y9pA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "FRENCH LIGUE 1⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
-		},
+		
 		{
 
 
@@ -200,7 +162,7 @@
 
 
 			"user": "Wolves vs Manchester City SD1(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/110.m3u8",
+			"pageUrl": "http://d3joajxwrc3ti2.cloudfront.net/stream/NDI3NQ==/1080p.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -208,7 +170,7 @@
 
 
 			"user": "Wolves vs Manchester City HD1(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/110.m3u8",
+			"pageUrl": "http://d3joajxwrc3ti2.cloudfront.net/stream/NDI3NQ==/1080p.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -216,7 +178,7 @@
 
 
 			"user": "Wolves vs Manchester City HD2(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/110.m3u8",
+			"pageUrl": "http://d3joajxwrc3ti2.cloudfront.net/stream/NDI3NQ==/1080p.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
