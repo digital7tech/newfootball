@@ -37,7 +37,15 @@
 		{
 
 
-			"user": "Clermont vs Montpellier",
+			"user": "Clermont vs Montpellier SD",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/t87_7Mm2LIQ3aN6xE5t4vExktALgajUlRPbdvtCEbFVUPxGIMJXjNJdcZDbThTtQ7ffBwrLH_A9FIrC2M6y9pA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
+
+
+			"user": "Clermont vs Montpellier HD",
 			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDI4MQ==/1080p.m3u8",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
