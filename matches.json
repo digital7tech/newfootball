@@ -64,7 +64,7 @@
 		{
 
 
-			"user": "Tottenham vs Arsenal SD (English)",
+			"user": "Tottenham vs Arsenal HD1 (English)",
 			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
@@ -72,12 +72,27 @@
 		{
 
 
-			"user": "Tottenham vs Arsenal SD (English)",
+			"user": "Tottenham vs Arsenal HD2 (English)",
 			"pageUrl": "http://dtsfu8xo15mhy.cloudfront.net/stream/NDIwOA==/1080p.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
-		
+		{
+
+
+			"user": "Real Madrid vs Levante SD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
+		{
+
+
+			"user": "Real Madrid vs Levante HD",
+			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"type": "LA LIGA ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
+		},
 		
 		
 {
