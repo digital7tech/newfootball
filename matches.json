@@ -4,68 +4,7 @@
 	"hits": [
 
 	
-	{
-
-
-			"user": "Chelsea vs Liverpool SD",
-			"pageUrl": "http://194.67.196.19:80/hls/109.m3u8",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png"
-		},	
-
-		{
-
-
-			"user": "Chelsea vs Liverpool SD1(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1U-2OgeFQ_2P56DdFTWqnqxUC4nfaoC1KQpyuy_QIL8m1--o6hlpPo_ACiBkMz-26_bZD2BP7yrG99UPJEApAw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png"
-		},
-		
-		{
-
-
-			"user": "Chelsea vs Liverpool SD2 (English)",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/F_P4oNSXcpKNGiW6ttfMer1g3D9zvo0DZjvwFk84txl8IRcEs0ozT6MhRKImFXFPEdv8_ehKocv0OWTgDWbilw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Liverpool HD1(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/TPk-UccEMBWP6IvNqWU0CWF5OpxF2hu3714ACZSVA1KkMefHFKhXzGmfEVgvcYpDDAHDR5k8mZZ9S_3Q7uIkrg/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png"
-		},
-		{
-
-
-			"user": "Chelsea vs Liverpool HD2 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/1U-2OgeFQ_2P56DdFTWqnqxUC4nfaoC1KQpyuy_QIL8m1--o6hlpPo_ACiBkMz-26_bZD2BP7yrG99UPJEApAw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "England - FA Cup ⚽️ ",
-			"webFormatUrl": "https://seeklogo.com/images/E/emirates-fa-cup-logo-4A51E1714E-seeklogo.com.png"
-		},
-		
-
-
-		{
-
-
-			"user": "Espanyol vs Valencia SD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/r89uM0bm5N3rMD4viOTUbOwmHNUWLnE2hrIWnDjYiFDZSzCIf6BVmBoLHEq08lu49p7NWJxBLPvwX1Oo1Y5LUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Espanyol vs Valencia HD",
-			"pageUrl": "http://d3j3l2afbtzbe1.cloudfront.net/stream/NDMwNQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-
+	
 		
 
 		{
@@ -128,7 +67,7 @@
 
 
 			"user": "Monaco vs Brest HD",
-			"pageUrl": "http://45.58.122.106:8081/live/ss4/playlist.m3u8",
+			"pageUrl": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/6Hsac7aRU8DuzQn3ZVyg7KAG14pTkS1q6jX0Dl80gXqgohg0jZLXI9jwAXyoXFsX_DH53mMbtNKPGOcZEBFa3Q/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
