@@ -51,7 +51,7 @@
 
 
 			"user": "Lyon vs Nantes HD",
-			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/r89uM0bm5N3rMD4viOTUbOwmHNUWLnE2hrIWnDjYiFDZSzCIf6BVmBoLHEq08lu49p7NWJxBLPvwX1Oo1Y5LUw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
