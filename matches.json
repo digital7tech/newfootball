@@ -3,22 +3,7 @@
 
 	"hits": [
 
-	{
-
-
-			"user": "Empoli vs Salernitana HD1",
-			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/5xSBvH0mxYVKwy60k2zPodwuq67c9P6BSsNAtlnsH8nuk6x9ocEpyLyLZsHkoU2nhojtmsjWfvZUfXURRA5h0A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-{
-
-
-			"user": "Empoli vs Salernitana HD2",
-			"pageUrl": "http://d216kmtcjzprzl.cloudfront.net/stream/NDMwNw==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
+	
 		{
 
 
@@ -157,13 +142,13 @@
 		},
 		{
 			"user": "Udinese vs Spezia HD1",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/5xSBvH0mxYVKwy60k2zPodwuq67c9P6BSsNAtlnsH8nuk6x9ocEpyLyLZsHkoU2nhojtmsjWfvZUfXURRA5h0A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 			"user": "Udinese vs Spezia HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/5xSBvH0mxYVKwy60k2zPodwuq67c9P6BSsNAtlnsH8nuk6x9ocEpyLyLZsHkoU2nhojtmsjWfvZUfXURRA5h0A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
