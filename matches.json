@@ -158,7 +158,7 @@
 
 
 			"user": "Leeds United vs Brighton SD1 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Y7eArJYMmkeV0758PmZAUYboYqOoP9L40InukJe89AWHr0ghDbasK7dC8AFF0kf-aqnhjqAPCewsajT2dmmw3g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm-master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -166,7 +166,7 @@
 
 
 			"user": "Leeds United vs Brighton HD1 (English)",
-			"pageUrl": "http://194.67.196.19:80/hls/107.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Y7eArJYMmkeV0758PmZAUYboYqOoP9L40InukJe89AWHr0ghDbasK7dC8AFF0kf-aqnhjqAPCewsajT2dmmw3g/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm-master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
