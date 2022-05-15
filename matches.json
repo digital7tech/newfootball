@@ -5,59 +5,7 @@
 
 	
 	
-		{
-			"user": "Bologna vs Sassuolo HD1",
-			"pageUrl": "http://d1kt6wfprhz1g6.cloudfront.net/stream/NDM0Mw==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-			"user": "Bologna vs Sassuolo HD2",
-			"pageUrl": "http://d1kt6wfprhz1g6.cloudfront.net/stream/NDM0Mw==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 		
-		{
-
-
-			"user": "Tottenham vs Burnley SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Burnley SD1 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/T471vqaw000JqP0LU0tp9YTbOauMAXe7Y-taLXK6Pq4tSHaE6lXrej0iD0qYreEIerfUOCVNwJprp7rllrXVCQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Burnley HD1 (English)",
-			"pageUrl": "http://d3jnelsf4if2o4.cloudfront.net/stream/NDMzMw==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Tottenham vs Burnley HD2 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/T471vqaw000JqP0LU0tp9YTbOauMAXe7Y-taLXK6Pq4tSHaE6lXrej0iD0qYreEIerfUOCVNwJprp7rllrXVCQ/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "WestHam vs Manchester City SD",
-			"pageUrl": "http://194.67.196.19:80/hls/106.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
 		{
 
 
@@ -214,13 +162,13 @@
 
 		{
 			"user": "Napoli vs Genoa HD1",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "http://d1buw0nvdqqgl1.cloudfront.net/stream/NDM0Mw==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 			"user": "Napoli vs Genoa HD2",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "http://d1buw0nvdqqgl1.cloudfront.net/stream/NDM0Mw==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
