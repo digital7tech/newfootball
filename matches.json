@@ -4,56 +4,6 @@
 	"hits": [
 
 
-		{
-
-
-			"user": "Everton vs Brentford SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Everton vs Brentford SD1(English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/wbS2vzoZ0zlaWCpzSwt4pzsf6XyrBBVHTV9H86a0LPuj-EWtxLsHp5L0DQOIwAjtb3BHpIzlaWwRBCgnTtkXFw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Everton vs Brentford HD1 (English)",
-			"pageUrl": "http://d64gpj5gu2glc.cloudfront.net/stream/NDMzOQ==/1080p.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-
-
-			"user": "Everton vs Brentford HD2",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/index.m3u8",
-			"type": "England - Premier League ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},
-		{
-			"user": "Milan vs Atalanta HD1",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/jAV96nxYhz9HHnsM8dYyN1f-UUSheBuoyWV4EO2cH9rlIRfoGxspFDW8aUUiKfdA6ZFeCMzsiSNg0DFKQTMxbg/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-			"user": "Milan vs Atalanta HD2",
-			"pageUrl": "http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-			"user": "Milan vs Atalanta HD3",
-			"pageUrl": "http://d64gpj5gu2glc.cloudfront.net/stream/NDM0NA==/1080p.m3u8",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
 		
 		
 
@@ -85,7 +35,7 @@
 
 
 			"user": "Cádiz vs Real Madrid HD",
-			"pageUrl": "https://cdn2.bestvideostudio.workers.dev/cdn/sabrouch2/chunks.m3u8",
+			"pageUrl": "https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/HEuuvTDnpBizudLnDgP-P8ODhmvxGflgS9ZRoI6New6j_QegpVM1TiDRMT-C_bkPrRkjFPytEnQ1tcZepa3mZw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_highlatency.m3u8?type=live",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
 		},
