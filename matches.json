@@ -8,56 +8,6 @@
 
 {
 
-			"user": "Eintracht Frankfurt vs Rangers SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "UEFA EUROPA LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-
-
-
-{
-
-			"user": "Eintracht Frankfurt vs Rangers SD (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/0AP9oHT0Tz63xRNEXaXvpGS3oYUu11Bt9a6ucozryJWAG5GHQq_L16q4qh5ZjOovwp2-4Z1-AdQIOgKhZ3SitA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA EUROPA LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-
-
-{
-
-			"user": "Eintracht Frankfurt vs Rangers HD1 (English)",
-			"pageUrl": "https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/0AP9oHT0Tz63xRNEXaXvpGS3oYUu11Bt9a6ucozryJWAG5GHQq_L16q4qh5ZjOovwp2-4Z1-AdQIOgKhZ3SitA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA EUROPA LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-
-
-{
-
-			"user": "Eintracht Frankfurt vs Rangers HD2 (English)",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt1.m3u8",
-			"type": "UEFA EUROPA LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-
-
-{
-
-			"user": "Eintracht Frankfurt vs Rangers HD3",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
-			"type": "UEFA EUROPA LEAGUE ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png"
-		},
-
-
-{
-
 			"user": "Football",
 			"pageUrl": "http://95.217.188.167:8090/PTV-SP_/index.m3u8",
 			"type": "FOOTBALL ⚽️ ",
