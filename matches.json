@@ -16,7 +16,7 @@
 
 
 			"user": "Hertha BSC vs Hamburger SV HD",
-			"pageUrl": "http://103.167.190.250/hls/sonyten2.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Z3VRtXyQXZxo1LQso5TEgq7z_-8lVZ1wm0jNWKUyrZAex06MCBtRTlieawk8WpJ3lsRZzB_m6NcaBGGAaS__eA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
 			"type": "Germany - Bundesliga ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
 		},
