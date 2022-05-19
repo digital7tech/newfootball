@@ -118,7 +118,7 @@
 
 
 			"user": "Chelsea vs Leicester City SD (English)",
-			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/MxZD-AJI8V5OqVCEuv8YIkn-Qe9oqG1ciZk9AbWT-dBBttSIqxGzGrFxwTQmVUrLxY1KAFWjb-OIyBVLyDj5sg/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/sV8mnz8wTSOXcUF8ILOXoUtD8uZG1-k9xFGv38oQZARcJ54gFdwMoPRgIXhNENDnKP4dKhUQov6POUi_gM1Z7Q/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
