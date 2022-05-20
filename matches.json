@@ -5,13 +5,13 @@
 
 	{
 			"user": "Torino vs Roma SD",
-			"pageUrl": "https://www.webcsn.ru.com/cdn/premium33/chunks.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Qx8JhsPladgmSc7b-xmROpgTjMpriHYClWSe3KLryqsHXzQYjI_SW_9mbhT6CXy5BOt8rj7zOZZHfuoYLb5Pgw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 			"user": "Torino vs Roma HD1",
-			"pageUrl": "https://www.webcsn.ru.com/cdn/premium33/chunks.m3u8",
+			"pageUrl": "https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/Qx8JhsPladgmSc7b-xmROpgTjMpriHYClWSe3KLryqsHXzQYjI_SW_9mbhT6CXy5BOt8rj7zOZZHfuoYLb5Pgw/transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
@@ -21,11 +21,18 @@
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
+
+{
+			"user": "Torino vs Roma HD4",
+			"pageUrl": "https://www.webcsn.ru.com/cdn/premium33/chunks.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
 		{
 
 
 			"user": "Real Madrid vs Real Betis SD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OUAnwDZyUkPomr17tLsCYKvLWhw80MYLRuEbivQ67_SOJTH5GTc1-lmYrCWh5Qrd2Ds7EoSmqmwkGd__NhgTlw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
 		},
@@ -33,7 +40,7 @@
 
 
 			"user": "Real Madrid vs Real Betis HD",
-			"pageUrl": "http://d13z1lqpfq29ov.cloudfront.net/stream/Mzc3OQ==/1080p.m3u8",
+			"pageUrl": "https://prod-ec-us-west-1.video.pscp.tv/Transcoding/v1/hls/OUAnwDZyUkPomr17tLsCYKvLWhw80MYLRuEbivQ67_SOJTH5GTc1-lmYrCWh5Qrd2Ds7EoSmqmwkGd__NhgTlw/transcode/us-west-1/periscope-replay-direct-prod-us-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live",
 			"type": "LA LIGA ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
 		},
