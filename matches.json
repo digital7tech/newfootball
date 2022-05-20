@@ -10,20 +10,20 @@
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 	
-		{
-			"user": "Torino vs Roma HD1",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/vXvVRCmoY77kzGqSgO4Qhrbeh14VpEkDzKoYOSHmLG7Up8oWbfKZE4nbczZ47qWKz3Whyd3O5T1zRxEAhTJLCw/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tm_master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-
 {
-			"user": "Torino vs Roma HD2",
+			"user": "Torino vs Roma HD1",
 			"pageUrl": "http://d8kerdrvqb7fy.cloudfront.net/stream/NDM3Nw==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		
+		{
+			"user": "Torino vs Roma HD2",
+			"pageUrl": "https://www.webcsn.ru.com/cdn/premium33/chunks.m3u8",
+			"type": "Italy - Serie A ⚽️ ",
+			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
+		},
+
 		{
 
 
