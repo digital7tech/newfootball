@@ -59,7 +59,7 @@
 
 
 			"user": "PSG vs Metz SD",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/G6D-sbbhdZ2F81VItAfR19yq67xi_ie67a4kh3iboM_tB45sPrstK4uy1WGbAVTTkL93chkNbblraMpl9RCXBg/non_transcode/us-west-2/periscope-replay-direct-live/tm_master_dynamic_highlatency.m3u8?type=live",
 			"type": "FRENCH LIGUE 1⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
 		},
