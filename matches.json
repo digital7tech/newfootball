@@ -2,36 +2,7 @@
 {
 
 	"hits": [
-{
-			"user": "Genoa vs Bologna SD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/xiO24u9kG5d_q7NdqAJcGT7R1ae2MGlnGlGAX0Iz9pmjFHWgc6Uri73XUvxIyLXyr-A8IcFy4WHsEDfwdeldKA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		{
-			"user": "Genoa vs Bologna HD",
-			"pageUrl": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/xiO24u9kG5d_q7NdqAJcGT7R1ae2MGlnGlGAX0Iz9pmjFHWgc6Uri73XUvxIyLXyr-A8IcFy4WHsEDfwdeldKA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "Italy - Serie A ⚽️ ",
-			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
-		},
-		
 
-		{
-
-
-			"user": "Valencia vs Celta de Vigo SD",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/mG-AfCPzokeKPJFBZ0ruNlvsZFpDKwDuzgS6fxezEEXhZCA9n1oQbpDLHjzGG6pgTgJnWxia6eRYfz0Hf9D1ng/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tm_master_dynamic_highlatency.m3u8?type=live",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
-		{
-
-
-			"user": "Valencia vs Celta de Vigo HD",
-			"pageUrl": "http://d8kerdrvqb7fy.cloudfront.net/stream/NDM3OQ==/1080p.m3u8",
-			"type": "LA LIGA ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXr3TdU7oeX_4kPFKLtWUwdTqtgIjsR2R65EzH_TH7hFwgpLtpCRdYEo5&s=10"
-		},
 			{
 
 
@@ -50,13 +21,13 @@
 		},
 		{
 			"user": "Fiorentina vs Juventus SD",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "http://d8kerdrvqb7fy.cloudfront.net/stream/NDM3OQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
 		{
 			"user": "Fiorentina vs Juventus HD",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDIxNg==/1080p.m3u8",
+			"pageUrl": "http://d8kerdrvqb7fy.cloudfront.net/stream/NDM3OQ==/1080p.m3u8",
 			"type": "Italy - Serie A ⚽️ ",
 			"webFormatUrl": "https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg"
 		},
