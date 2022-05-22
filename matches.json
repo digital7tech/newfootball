@@ -14,7 +14,7 @@
 
 
 			"user": "Manchester City vs Aston Villa SD",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/86gGubPhosNZ42oN4XI485JKgMmMlEwuLHSlJeCSkKtiiY5HLlz-pSq0EwE8HJP8Jfm12BC-A4x-Ehz1RYAzww/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://194.67.196.19:80/hls/118.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
@@ -38,7 +38,7 @@
 
 
 			"user": "Liverpool vs Wolves SD",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/fvBwNkhLF0Xa33_R2B5u_kMn4Tcc-jYm9NeduILtyOCB2F5in60Pce7AKa4fv9h46fjJGTCgwcJYkNIorHqOeA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
+			"pageUrl": "http://194.67.196.19:80/hls/119.m3u8",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
