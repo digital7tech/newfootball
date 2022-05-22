@@ -95,7 +95,7 @@
 
 
 			"user": "Arsenal vs Everton HD(English)",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8",
+			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/SQAFEi8dW5RQfOybjYDeIJYN0z3t9IzLfHFg-NqvX8VMUcAff56gnHxl03LqN9kcf7WSzfZI6ukQQrPyCKa7UQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/tw_master_dynamic_highlatency.m3u8?type=live",
 			"type": "England - Premier League ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
 		},
