@@ -52,8 +52,15 @@
 
 		{
 
-			"user": "Roma vs Feyernoord HD3",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"user": "Roma vs Feyernoord HD3 (English)",
+			"pageUrl": "http://do8gvq5qx9f1m.cloudfront.net/stream/NDQ0NA==/1080p.m3u8",
+			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
+		},
+		{
+
+			"user": "Roma vs Feyernoord HD3 (English)",
+			"pageUrl": "http://do8gvq5qx9f1m.cloudfront.net/stream/NDQ0NA==/1080p.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
