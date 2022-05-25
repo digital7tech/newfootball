@@ -20,22 +20,7 @@
 			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
-		{
-
-			"user": "Roma vs Feyernoord SD3  (English)",
-			"pageUrl": "https://prod-ec-eu-west-1.video.pscp.tv/Transcoding/v1/hls/jcguci8YASoLy_fAmqvo5w7OBXqfLoFFSYT7z4wGl4XWqPdEHYqPo7jR6KBdQqPgrXwu7jBLqRPQCqMJV4NZ9w/non_transcode/us-west-2/periscope-replay-direct-live/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
-
-
-{
-
-			"user": "Roma vs Feyernoord HD1 (English)",
-			"pageUrl": "https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/u5R_dbXV_wABNEFsOjgoOsqVhn6G1YJ-fx9_hLeJDMPENVpfQvySmFGWKmsXA1KqSKrxEyd1NSBGNrF_Winp8A/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/tw_master_dynamic_highlatency.m3u8?type=live",
-			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
-			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
-		},
+		
 
 
 
@@ -52,14 +37,14 @@
 
 		{
 
-			"user": "Roma vs Feyernoord HD3 (English)",
+			"user": "Roma vs Feyernoord HD2 (English)",
 			"pageUrl": "http://do8gvq5qx9f1m.cloudfront.net/stream/NDQ0NA==/1080p.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
 		},
 		{
 
-			"user": "Roma vs Feyernoord HD4 (English)",
+			"user": "Roma vs Feyernoord HD3 (English)",
 			"pageUrl": "http://cdn3-bongakamai.xyz/live/adaptive_bong-1/live/bong-1_480p/chunks.m3u8",
 			"type": "UEFA CONFERENCE LEAGUE FINAL ⚽️ ",
 			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/UEFA_Europa_Conference_League.svg/1200px-UEFA_Europa_Conference_League.svg.png"
