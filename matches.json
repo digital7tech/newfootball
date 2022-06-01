@@ -4,32 +4,74 @@
 	"hits": [
 
 
+		
 		{
 
-			"user": "BT SPORTS 1 LIVE",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt1.m3u8",
-			"type": "24/7 SPORTS ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpWJe6VUEZcu5KTiqdhKP8yrYAnhJPHPs8w&usqp=CAU"
-		},
-
-
-
-		{
-
-			"user": "BT SPORTS 2 LIVE",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8",
-			"type": "24/7 SPORTS ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpWJe6VUEZcu5KTiqdhKP8yrYAnhJPHPs8w&usqp=CAU"
-		},
-
-
-		{
-
-			"user": "BT SPORTS 3 LIVE",
+			"user": "Poland vs Wales SD",
 			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
-			"type": "24/7 SPORTS ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpWJe6VUEZcu5KTiqdhKP8yrYAnhJPHPs8w&usqp=CAU"
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
+		
+		{
+
+			"user": "Poland vs Wales HD1",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+		{
+
+			"user": "Poland vs Wales HD2",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Italy vs Argentina SD",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
+			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
+		},
+		{
+
+			"user": "Italy vs Argentina HD1",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
+			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
+		},
+		{
+
+			"user": "Italy vs Argentina HD2",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
+			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
+		},
+		{
+
+			"user": "Scotland vs Ukraine SD",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
+		},
+		{
+
+			"user": "Scotland vs Ukraine HD1",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
+		},
+		
+		{
+
+			"user": "Scotland vs Ukraine HD2",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
+		},
+
 
 {
 
