@@ -31,35 +31,35 @@
 		{
 
 			"user": "Italy vs Argentina SD",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDQ5Mg==/1080p.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
 			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
 		},
 		{
 
 			"user": "Italy vs Argentina HD1",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
 			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
 		},
 		{
 
 			"user": "Italy vs Argentina HD2",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
 			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
 		},
 		{
 
 			"user": "Scotland vs Ukraine SD",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
 		{
 
 			"user": "Scotland vs Ukraine HD1",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
@@ -67,7 +67,7 @@
 		{
 
 			"user": "Scotland vs Ukraine HD2",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
 		},
