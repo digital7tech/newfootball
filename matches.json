@@ -16,7 +16,7 @@
 		{
 
 			"user": "Poland vs Wales HD1",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://d3qwexhlxxyjhj.cloudfront.net/stream/NDQ5Mg==/1080p.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -24,14 +24,14 @@
 		{
 
 			"user": "Poland vs Wales HD2",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDQ5Mg==/1080p.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		{
 
 			"user": "Italy vs Argentina SD",
-			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDQ5Mg==/1080p.m3u8",
 			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
 			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
 		},
