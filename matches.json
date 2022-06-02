@@ -82,15 +82,15 @@
 		},
 		{
 
-			"user": "Slovenia vs Sweden HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"user": "Slovenia vs Sweden HD1",
+			"pageUrl": "http://138.201.220.51:8030/pt-2/index.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 
 {
 
-			"user": "Slovenia vs Sweden HD",
+			"user": "Slovenia vs Sweden HD2",
 			"pageUrl": "http://d2sr0akwetmh5q.cloudfront.net/stream/NDUwMQ==/1080p.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
