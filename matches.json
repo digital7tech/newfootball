@@ -5,48 +5,97 @@
 
 
 		
-		{
-
-			"user": "Italy vs Argentina SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
-			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
-		},
-		{
-
-			"user": "Italy vs Argentina HD1 (English)",
-			"pageUrl": "http://213.202.230.51:25461/live_sport/live_sport_ios/1",
-			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
-			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
-		},
-		{
-
-			"user": "Italy vs Argentina HD2",
-			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-1/live/bong-1_480p/chunks.m3u8",
-			"type": "CONMEBOL–UEFA Cup of Champions ⚽️ ",
-			"webFormatUrl": "https://content.sportslogos.net/news/2022/03/banners.jpg"
-		},
-		{
-
-			"user": "Scotland vs Ukraine SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
-		},
-		{
-
-			"user": "Scotland vs Ukraine HD1 (English)",
-			"pageUrl": "http://d31idj43e272lf.cloudfront.net/stream/NDUwNA==/1080p.m3u8",
-			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
-		},
 		
 		{
 
-			"user": "Scotland vs Ukraine HD2",
+			"user": "Georgia vs Gibraltar HD",
 			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
-			"webFormatUrl": "https://media.mehrnews.com/d/2021/03/12/4/3717437.jpg"
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Cyprus vs Kosovo HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Bulgaria vs North Macedonia HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Estonia vs San Marino HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Spain vs Portugal SD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Spain vs Portugal HD1",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Spain vs Portugal HD2",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Northern Ireland vs Greece SD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Northern Ireland vs Greece HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Serbia vs Norway SD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Serbia vs Norway HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Israel vs Iceland HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Slovenia vs Sweden HD",
+			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 
 
