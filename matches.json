@@ -27,28 +27,35 @@
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
+
 		{
 
 			"user": "Northern Ireland vs Greece SD",
-			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		{
 
 			"user": "Northern Ireland vs Greece HD",
-			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		{
 
 			"user": "Serbia vs Norway SD",
-			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
-		
+		{
+
+			"user": "Serbia vs Norway HD",
+			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
 
 {
 
@@ -68,7 +75,7 @@
 
 		{
 
-			"user": "Israel vs Iceland HD",
+			"user": "Israel vs Iceland SD",
 			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -76,12 +83,18 @@
 		{
 
 			"user": "Slovenia vs Sweden HD",
-			"pageUrl": "http://solo.cdn7-bongakamai.xyz/live/adaptive_bong-2/live/bong-2_480p/chunks.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
 			"type": "World Cup Qualifying ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 
+{
 
+			"user": "Slovenia vs Sweden HD",
+			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
+			"type": "World Cup Qualifying ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
 {
 
 			"user": "Football",
