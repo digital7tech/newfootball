@@ -5,9 +5,11 @@
 
 
 	
-		{
 
-			"user": "Hungary vs England SD",
+
+{
+
+			"user": "Italy vs Germany SD",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -17,56 +19,8 @@
 
 		{
 
-			"user": "Hungary vs England HD1 (English)",
-			"pageUrl": "https://srv05.varcdn.top/b5/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-			{
-
-			"user": "Hungary vs England HD2",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/O2jtmaod02.flv",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-{
-
-			"user": "Finland vs Bosnia and Herzegovina SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-{
-
-			"user": "Finland vs Bosnia and Herzegovina HD",
-			"pageUrl": "http://95.217.188.167:8090/PT2222/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-	{
-
-			"user": "Lithuania vs Luxembourg HD",
-			"pageUrl": "http://138.201.220.51:8030/pt-33/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},	
-
-{
-
-			"user": "Italy vs Germany SD",
-			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
-		{
-
 			"user": "Italy vs Germany HD (English)",
-			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
