@@ -7,7 +7,7 @@
 	
 		{
 
-			"user": "Armenia vs Northern Ireland SD",
+			"user": "Hungary vs England SD",
 			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -17,11 +17,108 @@
 
 		{
 
-			"user": "Armenia vs Northern Ireland HD",
-			"pageUrl": "https://video-weaver.cdg02.hls.live-video.net/v1/playlist/CpwF01N3lDI1yw9iwLUOejxkc6zSfN-zhMxSuJVIRJOI6ypBM9pGPGEt617hVRa5hOX5iyGE4KYfdGVcq4ie3hjN6bmt8DA3nIiKQ_ml4kyybeAT-linx-YN5MJTgjuQ_4k0tfwTPT0ax1X_snejw4ImMICv4P1XKuQ61Bx-bGKhHG9XkVd9b1awq09uJJWD1JDh6aVTijZm62eSOPn3Uhihx1Rzk37pv3ri4haXvLOswUKgxePFmk9qnSjHKWQ2vP2e2yEhOBoERBq6oFtn_aIpzKFZLYWMWp2d_1u3zKjU5OM3yOUVyXIzZjXfHTZk7D4kvhFKR26GyFkfOn7im-3PhyD2aQQRHcMSx0at3MFu4eC_rooJbxEjm0dQ1_LQMiGdPmj2cJnJy3apI_MrZVyIn60Py8c9mVndBCbESoHvzSgVyEZh5myK2mb3DenbugdENWb40pfmnPZy9JQCDH2VV6aGy55ZZLO1R1w7Rn6qkN01ECPzYoFd2qtd36Qy22YCgn71GXZgS1EI8jdgriwMi5MQcu59GY8UJAdgTL7QFH-rNubFBLIA-QK-iNr-3DNPjLWe6bN6s0WBjrpE97qtD80vGWU8Y7VyIo-DRVDmHIihWc4HHo8eG-veLFsnG4Mqo-_oe2LPOV-HCiueeFV4rAeTUJa_HF3pC-NUnmfNS_vuf62lEuA4s5GuiEgqss1fUzIHpNJicVmRn7mNPhc3lyaAQgcwAT2gzCEtFfuOU1hVl4df8jz0WqB_JHPybex33NITqyZuhidB0gL1o8sdirT2M4oO7FOSnXDKNtaeBUeovQ67zDz-31No4N1s_VXYbrmzFHxRpQ_vpH3sl_QgHN6rlM3NQrifNefnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"user": "Hungary vs England HD1 (English)",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
+			{
+
+			"user": "Hungary vs England HD2",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+{
+
+			"user": "Italy vs Germany SD",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		{
+
+			"user": "Italy vs Germany HD (English)",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Italy vs Germany HD2",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		
+		{
+
+			"user": "Turkey vs Faroe Islands SD",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		{
+
+			"user": "Turkey vs Faroe Islands HD(English)",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Montenegro vs Romania SD",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		{
+
+			"user": "Montenegro vs Romania HD",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Lithuania vs Luxembourg SD",
+			"pageUrl": "http://95.217.188.167:8090/pt1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		{
+
+			"user": "Lithuania vs Luxembourg HD",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Finland vs Bosnia and Herzegovina HD",
+			"pageUrl": "fnFiqvVCJBFi9sbyf5rVCLElcaDP1ua038cZby4_es2SABKgl1cy13ZXN0LTIw7wM.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+		
 		
 {
 
