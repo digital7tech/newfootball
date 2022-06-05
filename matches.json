@@ -9,16 +9,30 @@
 
 		{
 
-			"user": "San Marino vs Malta HD",
+			"user": "Cyprus vs Northern Ireland SD",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		
 
+		{
+
+			"user": "Cyprus vs Northern Ireland HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
 
 		
 		
+		{
+
+			"user": "Gibraltar vs North Macedonia HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
 		
 		
 {
