@@ -7,64 +7,9 @@
 	
 
 
-{
-
-			"user": "Italy vs Germany SD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
 		{
 
-			"user": "Italy vs Germany HD (English)",
-			"pageUrl": "http://138.201.220.51:8030/select-2/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Italy vs Germany HD2",
-			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDUyNw==/1080p.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
-		
-		{
-
-			"user": "Turkey vs Faroe Islands SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
-		{
-
-			"user": "Turkey vs Faroe Islands HD(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Montenegro vs Romania SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
-		{
-
-			"user": "Montenegro vs Romania HD",
+			"user": "San Marino vs Malta HD",
 			"pageUrl": "http://95.217.188.167:8090/PT2222/index.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
