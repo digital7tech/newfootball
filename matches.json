@@ -27,7 +27,7 @@
 		{
 
 			"user": "Czech Republic vs Spain SD",
-			"pageUrl": "http://95.217.188.167:8090/pt-5/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -36,7 +36,7 @@
 		{
 
 			"user": "Czech Republic vs Spain HD",
-			"pageUrl": "http://95.217.188.167:8090/pt-5/index.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
