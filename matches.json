@@ -5,19 +5,12 @@
 
 
 	
-		{
-
-			"user": "Argrntina vs Estonia SD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "FIFA FRIENDLIES ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxfBKFhLjh52cdzNgmzAHW6YmkyuJwcEXWw&usqp=CAU"
-		},
 		
 
 	
 		{
 
-			"user": "Portugal vs Switzerland SD",
+			"user": "Latvia vs Liechtenstein SD",
 			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -26,7 +19,80 @@
 	
 		{
 
-			"user": "Portugal vs Switzerland HD(English)",
+			"user": "Latvia vs Liechtenstein HD(English)",
+			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Croatia vs France SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Croatia vs France HD(English)",
+			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Austria vs Denmark SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Austria vs Denmark HD(English)",
+			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Iceland vs Albania SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Iceland vs Albania HD",
+			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Belarus vs Azerbaijan HD",
+			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Slovakia vs Kazakhstan HD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Andorra vs Moldova HD",
 			"pageUrl": "http://d3lii86zxr4mrn.cloudfront.net/stream/NDU0OA==/1080p.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -34,76 +100,7 @@
 
 
 
-		{
-
-			"user": "Czech Republic vs Spain SD",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
 		
-	
-		{
-
-			"user": "Czech Republic vs Spain HD",
-			"pageUrl": "http://d1bksjatmqgose.cloudfront.net/stream/NDU0Nw==/1080p.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-			
-
-
-		{
-
-			"user": "Serbia vs Slovenia SD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		
-	
-		{
-
-			"user": "Serbia vs Slovenia HD",
-			"pageUrl": "http://194.67.196.19:80/hls/105.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-			
-
-
-		{
-
-			"user": "Sweden vs Norway SD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		
-		{
-
-			"user": "Sweden vs Norway HD",
-			"pageUrl": "http://194.67.196.19:80/hls/104.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		
-	
-		{
-
-			"user": "Kosovo vs Greece SD",
-			"pageUrl": "http://95.217.188.167:8090/pt-5/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		
-		{
-
-			"user": "Bulgaria vs Georgia HD",
-			"pageUrl": "http://95.217.188.167:8090/pt-5/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},	
 
 			
 {
