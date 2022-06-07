@@ -32,7 +32,7 @@
 		{
 
 			"user": "Germany vs England SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -41,7 +41,7 @@
 		{
 
 			"user": "Germany vs England HD (English)",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
