@@ -29,7 +29,7 @@
 {
 
 			"user": "Wales vs Netherlands HD(English)",
-			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
+			"pageUrl": "https://e170a8e3cb5b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.214019644250.channel.mJezZKfvrWKA.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -46,14 +46,14 @@
 		{
 
 			"user": "Belgium vs Poland HD",
-			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"pageUrl": "https://e170a8e3cb5b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.214019644250.channel.mJezZKfvrWKA.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		{
 
 			"user": "Ireland Republic vs Ukraine SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "https://e170a8e3cb5b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.214019644250.channel.mJezZKfvrWKA.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -72,7 +72,7 @@
 		{
 
 			"user": "Scotland vs Armenia SD",
-			"pageUrl": "http://194.67.196.19:80/hls/103.m3u8",
+			"pageUrl": "https://e170a8e3cb5b.us-east-1.playback.live-video.net/api/video/v1/us-east-1.214019644250.channel.mJezZKfvrWKA.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
