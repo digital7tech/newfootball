@@ -27,14 +27,14 @@
 		{
 
 			"user": "	Switzerland vs Spain SD",
-			"pageUrl": "http://d3p8nqsd18nkyg.cloudfront.net/stream/NDU1MA==/1080p.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
 		{
 
 			"user": "	Switzerland vs Spain HD(English)",
-			"pageUrl": "http://d3p8nqsd18nkyg.cloudfront.net/stream/NDU1MA==/1080p.m3u8",
+			"pageUrl": "http://194.67.196.19:80/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
