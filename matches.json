@@ -25,20 +25,7 @@
 		
 		
 	
-		{
-
-			"user": "Azerbaijan vs Slovakia SD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K813.flv",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Azerbaijan vs Slovakia HD",
-			"pageUrl": "http://asfsafsdfdsfsfsdf.azureedge.net/stream/NDU2MQ==/1080p.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
+		
 		{
 
 			"user": "Austria vs France SD",
@@ -90,7 +77,7 @@
 		{
 
 			"user": "Andorra vs Liechtenstein HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K809.flv",
+			"pageUrl": "http://stariptv.org:8080/basma2022/123456/2762",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
