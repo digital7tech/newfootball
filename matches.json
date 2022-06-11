@@ -11,27 +11,9 @@
 		
 		
 	
-		
 		{
 
-			"user": "Austria vs France SD",
-			"pageUrl": "http://95.217.188.167:8090/tant/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Austria vs France HD",
-			"pageUrl": "http://95.217.188.167:8090/tant/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		
-		
-	
-		{
-
-			"user": "Denmark vs Croatia SD",
+			"user": "Ukraine vs Arminia SD",
 			"pageUrl": "http://95.217.188.167:8090/sp-football/index.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -39,31 +21,8 @@
 
 		{
 
-			"user": "Denmark vs Croatia HD",
-			"pageUrl": "http://95.217.188.167:8090/sp-football/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-		{
-
-			"user": "Albania vs Israel HD",
+			"user": "Ukraine vs Arminia HD",
 			"pageUrl": "http://138.201.220.51:8030/pt-1/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-		{
-
-			"user": "Belarus vs Kazakhstan HD",
-			"pageUrl": "http://138.201.220.51:8030/pt-3/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Andorra vs Liechtenstein HD",
-			"pageUrl": "http://init.cheches.info:21223/hls/104.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
