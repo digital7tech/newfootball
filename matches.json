@@ -14,7 +14,7 @@
 	
 	{
 
-			"user": "Northern Ireland vs Cyprus SD",
+			"user": "Norway vs Sweeden SD",
 			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -23,7 +23,23 @@
 	
 	{
 
-			"user": "Northern Ireland vs Cyprus HD (English)",
+			"user": "Norway vs Sweeden HD",
+			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Georgia vs Bulgaria HD",
+			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+	
+	{
+
+			"user": "North Macedonia vs Gibraltar HD",
 			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
