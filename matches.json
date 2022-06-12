@@ -12,38 +12,7 @@
 		
 	
 	
-	{
-
-			"user": "Norway vs Sweeden SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
 	
-	{
-
-			"user": "Norway vs Sweeden HD",
-			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-		{
-
-			"user": "Georgia vs Bulgaria HD",
-			"pageUrl": "http://194.67.196.19:21223/hls/102.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-	
-	{
-
-			"user": "North Macedonia vs Gibraltar HD",
-			"pageUrl": "http://194.67.196.19:21223/hls/103.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
 
 	
 	{
@@ -77,7 +46,7 @@
 	{
 
 			"user": "Switzerland vs Portugal HD",
-			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
+			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -88,7 +57,7 @@
 	{
 
 			"user": "Slovenia vs Serbia SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
+			"pageUrl": "http://init.cheches.info:21223/hls/103.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -97,7 +66,7 @@
 	{
 
 			"user": "Slovenia vs Serbia HD",
-			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
+			"pageUrl": "http://init.cheches.info:21223/hls/103.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -106,7 +75,7 @@
 	{
 
 			"user": "Greece vs Kosovo SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
+			"pageUrl": "http://init.cheches.info:21223/hls/105.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
