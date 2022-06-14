@@ -13,7 +13,7 @@
 	
 	{
 
-			"user": "Azerbaijan vs Belarus SD",
+			"user": "Armenia vs Scotland SD",
 			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -23,7 +23,7 @@
 	
 	{
 
-			"user": "Denmark vs Austria SD",
+			"user": "Armenia vs Scotland HD",
 			"pageUrl": "http://init.cheches.info:21223/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -32,7 +32,7 @@
 	
 	{
 
-			"user": "Denmark vs Austria HD",
+			"user": "Moldova vs Andorra HD",
 			"pageUrl": "http://95.217.188.167:8090/premer-1/index.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
@@ -40,70 +40,6 @@
 
 
 	
-	{
-
-			"user": "France vs Croatia SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/101.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-	
-	{
-
-			"user": "France vs Croatia HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/XluFTyJN06.flv",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-
-	
-	{
-
-			"user": "Slovenia vs Serbia SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/103.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-	
-	{
-
-			"user": "Slovenia vs Serbia HD",
-			"pageUrl": "http://init.cheches.info:21223/hls/103.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-	
-	{
-
-			"user": "Iceland vs Israel SD",
-			"pageUrl": "http://init.cheches.info:21223/hls/105.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-	
-	{
-
-			"user": "Iceland vs Israel HD",
-			"pageUrl": "http://138.201.220.51:8030/sky-f1/index.m3u8",
-			"type": "Europe - UEFA Nations League ⚽️ ",
-			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
-		},
-
-
-	{
-
-			"user": "ELEVEN SPORT",
-			"pageUrl": "http://138.201.220.51:8030/pt-1/index.m3u8",
-			"type": "FOOTBALL ⚽️ ",
-			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
-		},	
-
 			
 {
 
