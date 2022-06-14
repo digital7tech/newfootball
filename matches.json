@@ -23,7 +23,7 @@
 	{
 
 			"user": "England vs Hungary SD",
-			"pageUrl": "http://194.67.196.19:21223/hls/101.m3u8",
+			"pageUrl": "http://194.67.196.19:21223/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -33,7 +33,7 @@
 	{
 
 			"user": "England vs Hungary HD(English)",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
+			"pageUrl": "http://194.67.196.19:21223/hls/102.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -42,7 +42,7 @@
 	{
 
 			"user": "Germany vs Italy SD",
-			"pageUrl": "http://194.67.196.19:21223/hls/103.m3u8",
+			"pageUrl": "http://194.67.196.19:21223/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -53,7 +53,7 @@
 	{
 
 			"user": "Germany vs Italy HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K808.flv",
+			"pageUrl": "http://194.67.196.19:21223/hls/101.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -84,7 +84,7 @@
 	{
 
 			"user" : "Poland vs Belgium SD",
-			"pageUrl": "http://194.67.196.19:21223/hls/103.m3u8",
+			"pageUrl": "http://194.67.196.19:21223/hls/104.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -95,7 +95,7 @@
 	{
 
 			"user": "Poland vs Belgium HD",
-			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K808.flv",
+			"pageUrl": "http://194.67.196.19:21223/hls/104.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
@@ -105,7 +105,7 @@
 	{
 
 			"user": "Ukraine vs Ireland Republic SD",
-			"pageUrl": "http://194.67.196.19:21223/hls/103.m3u8",
+			"pageUrl": "http://194.67.196.19:21223/hls/105.m3u8",
 			"type": "Europe - UEFA Nations League ⚽️ ",
 			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
 		},
