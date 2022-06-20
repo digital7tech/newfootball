@@ -33,6 +33,34 @@
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		},
+
+
+	{
+
+			"user": "BT SPORTS ONE",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt1.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BT SPORTS TWO",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt2.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BT SPORTS THREE",
+			"pageUrl": "https://birutv.com/sport@birutv/live/bt3.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
 		{
 
 			"user": "PTV SPORTS",
